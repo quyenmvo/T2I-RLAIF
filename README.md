@@ -33,7 +33,7 @@ This stage incorporates an active learning framework where the text-to-image mod
 - **Model Fine-Tuning**: Using reinforcement learning to adjust the model parameters based on feedback scores.
 - **Iterative Refinement**: Continuously refining the model through multiple iterations of generation and scoring.
 
-<div style="text-align: center;">
+<div style="justify-self: center;">
   <img src="images/stage2_pipeline.png" alt="Stage 2 Pipeline" width="80%"/>
 </div>
 
