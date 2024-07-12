@@ -33,9 +33,7 @@ This stage incorporates an active learning framework where the text-to-image mod
 - **Model Fine-Tuning**: Using reinforcement learning to adjust the model parameters based on feedback scores.
 - **Iterative Refinement**: Continuously refining the model through multiple iterations of generation and scoring.
 
-<div style="position: relative;">
-  <img src="images/stage2_pipeline.png" alt="Stage 2 Pipeline" style="width: 80%; position: absolute; left: 50%; transform: translateX(-50%);"/>
-</div>
+<img src="images/stage2_pipeline.png" alt="Stage 2 Pipeline" width="70%"/>
 
 ## Experiments and Results
 Experiments were conducted on the MS-COCO dataset to evaluate the performance of the proposed methods. The results demonstrated significant improvements in image quality and alignment with user prompts compared to traditional models.
@@ -49,7 +47,7 @@ The first pipeline improved the initial image generation quality by enhancing th
 ### Stage 2 Results
 The second pipeline further fine-tuned the model using simulated feedback from MLLMs. This active learning process resulted in continuous improvement in image quality and alignment with user preferences over multiple iterations. Some examples of iterative improvements are shown below:
 
-![Stage 2 Results](images/stage2_result.png)
+<img src="images/stage2_result.png" alt="Stage 2 Results" width="70%"/>
 
 ## Acknowledgements
 I would like to express my deep gratitude to my supervisors, Mr. Nguyễn Quang Đức and Dr. Nguyễn Đức Dũng, for their guidance and support throughout the research process. I also thank the Faculty of Computer Science and Engineering at the Ho Chi Minh City University of Technology for providing the knowledge and resources necessary to complete this project.
