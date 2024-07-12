@@ -41,12 +41,13 @@ Experiments were conducted on the MS-COCO dataset to evaluate the performance of
 ### Stage 1 Results
 The first pipeline improved the initial image generation quality by enhancing the prompts and ensuring better alignment with the textual descriptions. Below are some examples of generated images before and after applying MLLM-based prompt enhancement:
 
-![Stage 1 Results](images/stage1_results.png)
+![Stage 1 Results 1](images/stage1_result1.png)
+![Stage 1 Results 2](images/stage1_result1.png)
 
 ### Stage 2 Results
 The second pipeline further fine-tuned the model using simulated feedback from MLLMs. This active learning process resulted in continuous improvement in image quality and alignment with user preferences over multiple iterations. Some examples of iterative improvements are shown below:
 
-![Stage 2 Results](images/stage2_results.png)
+![Stage 2 Results](images/stage2_result.png)
 
 ## Acknowledgements
 I would like to express my deep gratitude to my supervisors, Mr. Nguyễn Quang Đức and Dr. Nguyễn Đức Dũng, for their guidance and support throughout the research process. I also thank the Faculty of Computer Science and Engineering at the Ho Chi Minh City University of Technology for providing the knowledge and resources necessary to complete this project.
