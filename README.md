@@ -17,7 +17,7 @@ This project explores the enhancement of text-to-image generation models by inte
 - [License](#license)
 
 ## Introduction
-The project aims to address challenges in generating high-quality images that accurately reflect textual descriptions. It proposes using MLLMs to enhance user input text and simulate feedback for continuous model improvement. The approach involves a two-stage process with detailed methodologies and evaluations.
+The project aims to address challenges in generating high-quality images that accurately reflect textual descriptions. It proposes using MLLMs to enhance user input text and simulate feedback for continuous model improvement. The approach involves two stage with two pipeline, detailed methodologies and evaluations.
 
 ## Methodology
 
