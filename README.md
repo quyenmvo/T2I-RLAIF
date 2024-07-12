@@ -12,9 +12,7 @@ This project explores the enhancement of text-to-image generation models by inte
   - [Stage 1: Improving Text-to-Image Generation](#stage-1-improving-text-to-image-generation)
   - [Stage 2: Fine-Tuning with Active Learning](#stage-2-fine-tuning-with-active-learning)
 - [Experiments and Results](#experiments-and-results)
-- [Environment Setup](#environment-setup)
 - [Acknowledgements](#acknowledgements)
-- [License](#license)
 
 ## Introduction
 The project aims to address challenges in generating high-quality images that accurately reflect textual descriptions. It proposes using MLLMs to enhance user input text and simulate feedback for continuous model improvement. The approach involves two stage with two pipeline, detailed methodologies and evaluations.
