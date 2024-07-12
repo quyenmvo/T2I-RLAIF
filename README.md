@@ -34,9 +34,8 @@ This stage incorporates an active learning framework where the text-to-image mod
 - **Iterative Refinement**: Continuously refining the model through multiple iterations of generation and scoring.
 
 <div style="text-align: center;">
-  <img src="images/stage2_pipeline.png" alt="Stage 2 Pipeline" width="400"/>
+  <img src="images/stage2_pipeline.png" alt="Stage 2 Pipeline" width="80%"/>
 </div>
-![Stage 2 Pipeline](images/stage2_pipeline.png)
 
 ## Experiments and Results
 Experiments were conducted on the MS-COCO dataset to evaluate the performance of the proposed methods. The results demonstrated significant improvements in image quality and alignment with user prompts compared to traditional models.
