@@ -40,7 +40,15 @@ This stage incorporates an active learning framework where the text-to-image mod
 ## Experiments and Results
 Experiments were conducted on the MS-COCO dataset to evaluate the performance of the proposed methods. The results demonstrated significant improvements in image quality and alignment with user prompts compared to traditional models.
 
-![Experiment Results](images/experiment_results.png)
+### Stage 1 Results
+The first pipeline improved the initial image generation quality by enhancing the prompts and ensuring better alignment with the textual descriptions. Below are some examples of generated images before and after applying MLLM-based prompt enhancement:
+
+![Stage 1 Results](images/stage1_results.png)
+
+### Stage 2 Results
+The second pipeline further fine-tuned the model using simulated feedback from MLLMs. This active learning process resulted in continuous improvement in image quality and alignment with user preferences over multiple iterations. Some examples of iterative improvements are shown below:
+
+![Stage 2 Results](images/stage2_results.png)
 
 ## Environment Setup
 To replicate the experiments and run the models, follow these steps:
