@@ -50,26 +50,5 @@ The second pipeline further fine-tuned the model using simulated feedback from M
 
 ![Stage 2 Results](images/stage2_results.png)
 
-## Environment Setup
-To replicate the experiments and run the models, follow these steps:
-
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
-    ```
-
-2. Install the required dependencies:
-    ```sh
-    pip install -r requirements.txt
-    ```
-
-3. Set up the dataset and pre-trained models as described in the `setup.md` file.
-
-4. Run the experiments:
-    ```sh
-    python main.py
-    ```
-
 ## Acknowledgements
 I would like to express my deep gratitude to my supervisors, Mr. Nguyễn Quang Đức and Dr. Nguyễn Đức Dũng, for their guidance and support throughout the research process. I also thank the Faculty of Computer Science and Engineering at the Ho Chi Minh City University of Technology for providing the knowledge and resources necessary to complete this project.
