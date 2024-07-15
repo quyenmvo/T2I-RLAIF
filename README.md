@@ -1,3 +1,5 @@
+[Report](https://drive.google.com/file/d/1rbStDjvpGYFkTEPidmCpUlmdZ32kPlqr/view?usp=sharing) | [Slides](https://docs.google.com/presentation/d/1meBXgHDFRmfy1rUY-mqLqm0ydX8Up-XB/edit?usp=sharing&ouid=103171650373519957449&rtpof=true&sd=true)
+
 # Improving Text-to-Image Models with Artificial Intelligence Feedback
 
 ## Overview
